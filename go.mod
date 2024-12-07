@@ -1,4 +1,4 @@
-module fynitude
+module github.com/fabienblin/fynitude
 
 go 1.21.3
 
